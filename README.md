@@ -1,5 +1,11 @@
 # Simple Dropdown Test | React Native/Expo
 
+## Running on Expo Go
+
+[Project page on Expo](https://expo.dev/@diegodg967/simple-dropdown-test?serviceType=classic&distribution=expo-go)
+
+---
+
 ## Running an Expo Application
 
 This guide will walk you through the steps required to run an Expo application.
