@@ -13,7 +13,7 @@ export const HomeScreen = () => {
         translucent
       />
       <View style={styles.container}>
-        <DropDown align="right">
+        <DropDown>
           <DropDownMenuItem onPress={() => console.log("1 pressed!")}>
             Item 1
           </DropDownMenuItem>
